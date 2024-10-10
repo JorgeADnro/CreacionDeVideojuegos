@@ -1,9 +1,9 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://sm.ign.com/ign_latam/news/u/unity-ackn/unity-acknowledges-confusion-and-frustration-among-developer_6csh.png" alt="Logo" width=1200 height=300>
 
   <p align="center">
-    Short description
+    Creación de Videojuegos tanto 3D como 2D utilizando Unity como herramienta de desarrollo
     <br>
   </p>
 </p>
