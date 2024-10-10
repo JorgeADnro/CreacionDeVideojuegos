@@ -32,7 +32,7 @@
 
 * Leccion 3 - Prototipo 3 Parte 1
   ![image](https://github.com/user-attachments/assets/36763222-0a3f-433a-825b-9491a8797ce4)
-    <p> Proyecto 2D desarrollado en Unity en el cual se desarrolló la jugabilidad básica de movimiento y se utilizaron animaciones para el jugador y para los enemigos. </p>
+        <p> Proyecto 2D desarrollado en Unity en el cual se desarrolló la jugabilidad básica de movimiento y se utilizaron animaciones para el jugador y para los enemigos. </p>
   * > [Carpeta](./Prototipo3/)
   * > [Parte 1](./Prototipo3/Parte1/)
   * > [Parte 2](./Prototipo3/Parte2/)
