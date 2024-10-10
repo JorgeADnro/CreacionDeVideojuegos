@@ -20,13 +20,12 @@
 ## Elementos
 
 * Prototipo 1
-  * > Assets
+  * > [Carpeta](./Prototipo1/)
 * Prototipo 2
-  * > Evidencia de proceso de desarrollo
-  * > Assets
+  * > [Carpeta](./Prototipo2/)
 * Prototipo 3
-  * > 
-* VideoJuego
+  * > [Carpeta](./Prototipo3/)
+* [Videojuego](./Juego/)
 
 ## Autores
 Jorge Luis Ayala Manrique
