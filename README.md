@@ -40,15 +40,15 @@
     * ### Parte 1
     ![image](https://github.com/user-attachments/assets/36763222-0a3f-433a-825b-9491a8797ce4)
     * > Descripción
-            <p>Proyecto 2D desarrollado en Unity, centrado en la creación de una jugabilidad básica que incluye el control del movimiento del jugador y la implementación de animaciones tanto para el personaje principal como para los enemigos. El objetivo del proyecto es ofrecer una experiencia de juego fluida y visualmente atractiva.</p>
+            <p>Esta parte está centrada en la creación e la implementación de animaciones tanto para el personaje principal como para los enemigos. El objetivo del proyecto es ofrecer una experiencia de juego fluida y visualmente atractiva.</p>
     * ### Parte 2
     ![image](https://github.com/user-attachments/assets/1ba73231-2b61-4691-bc5d-aa2b6ff85e16)
     * > Descripción
-            <p></p>
+            <p>Esta parte está centrada en el desarrollo de la jugabilidad básica del personaje principal, como lo son el movimiento por la pantalla y la utilización de distintas animaciones para la misma jugabilidad.</p>
     * ### Parte 3
     ![image](https://github.com/user-attachments/assets/47ee6c31-f15a-464a-a256-c41adf619479)
     * > Descripción
-            <p></p>
+            <p>Esta parte está centrada en el desarrollo del entorno del nivel, creando diferentes paletas para dibujar sobre el proyecto lo que será nuestro entorno para el personaje, añadiendo coliciones con objetos que fungirán como obstáculos y el movimiento de la cámara para que esta siga al jugardor</p>
   * > [Carpeta](./Prototipo3/)
       * > [Evidencia Parte 1](./Prototipo3/Parte1/)
       * > [Evidencia Parte 2](./Prototipo3/Parte2/)
