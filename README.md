@@ -56,9 +56,7 @@
       * > [Evidencia Parte 3](./Prototipo3/Parte3/)
   
   *  ### Challenge 2
-  ![image](https://github.com/user-attachments/assets/d5bd97c1-1221-4a52-8881-7b9fb853358a)
-  * > Descripción
-      <p> Proyecto 3D desarrollado en Unity en el que se implementó una simulación interactiva de una camioneta y varios obstáculos con físicas realistas. El proyecto tiene como objetivo ofrecer una experiencia inmersiva en la que el jugador pueda controlar una camioneta en un entorno 3D, utilizando un conjunto de físicas que simulan el comportamiento del vehículo y los objetos en el mundo del juego. </p>
+ 
   * > [Carpeta](./Challenge2/)
 * [Videojuego](./Juego/)
 
